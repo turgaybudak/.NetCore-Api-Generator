@@ -58,7 +58,8 @@ namespace AspDotNetCoreAraci
             GenelHazirla(ProjeAdi, ConString);
             PropertiesHazirla(ProjeAdi);
 
-
+            if (Directory.Exists(DosyaYolu + "/" + ProjeAdi))
+                Process.Start(DosyaYolu);
         }
 
         private void PropertiesHazirla(string ProjeAdi)
@@ -1349,7 +1350,18 @@ namespace %ProjeAdi%.Business.IServices
 
             if (!Directory.Exists(DosyaYolu + "/" + ProjeAdi))//ProjeDosyasi
                 Directory.CreateDirectory(DosyaYolu + "/" + ProjeAdi);
+            else
+            {
+                DirectoryInfo di = new DirectoryInfo(DosyaYolu + "/" + ProjeAdi);
 
+                foreach (DirectoryInfo dir in di.GetDirectories())
+                {
+                    foreach (FileInfo file in dir.GetFiles())
+                        file.Delete();
+
+                    dir.Delete(true);
+                }
+            }
             if (!Directory.Exists(DosyaYolu + "/" + ProjeAdi + "/Genel"))//Genel
                 Directory.CreateDirectory(DosyaYolu + "/" + ProjeAdi + "/Genel");
 
@@ -1403,10 +1415,24 @@ namespace %ProjeAdi%.Business.IServices
             {
                 Nesneler = DBNesneleriGetir(txtConString.Text);
 
-                lstTablolar.Items.Clear();
+                lstTablolar.DataSource=null;
                 lstTablolar.DataSource = Nesneler.GroupBy(a => a.Tablo).Select(a =>  a.Key ).ToList();
             }
 
+        }
+
+        private void txtProjeAdi_TextChanged(object sender, EventArgs e)
+        {
+            string ProjeAdi = txtProjeAdi.Text.Replace(" - ", "").Replace(" ", "").Replace("_", "");
+
+
+            if (ProjeAdi != string.Empty && txtConString.Text != string.Empty)
+            {
+                Nesneler = DBNesneleriGetir(txtConString.Text);
+
+                lstTablolar.DataSource = null;
+                lstTablolar.DataSource = Nesneler.GroupBy(a => a.Tablo).Select(a => a.Key).ToList();
+            }
         }
     }
 }

@@ -64,6 +64,7 @@ namespace AspDotNetCoreAraci
             this.txtProjeAdi.Name = "txtProjeAdi";
             this.txtProjeAdi.Size = new System.Drawing.Size(100, 20);
             this.txtProjeAdi.TabIndex = 2;
+            this.txtProjeAdi.TextChanged += new System.EventHandler(this.txtProjeAdi_TextChanged);
             // 
             // txtConString
             // 

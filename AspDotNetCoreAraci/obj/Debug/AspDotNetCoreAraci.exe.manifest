@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AspDotNetCoreAraci.exe" size="317864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AspDotNetCoreAraci.exe" size="318376">
       <assemblyIdentity name="AspDotNetCoreAraci" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZE+PfsxVYM3DVIriNoe5P4SdcdO4P9gEghuYUQDaktM=</dsig:DigestValue>
+        <dsig:DigestValue>PV0YLo67WHM3PYC75ci33WmAW2SMG4zefnB+9cV5r2U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

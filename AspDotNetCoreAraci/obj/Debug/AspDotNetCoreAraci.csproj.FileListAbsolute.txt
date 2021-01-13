@@ -12,3 +12,17 @@ C:\Users\turga\source\repos\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe.
 C:\Users\turga\source\repos\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.application
 C:\Users\turga\source\repos\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe.manifest
 C:\Users\turga\source\repos\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.application
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe.config
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe.manifest
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.application
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.pdb
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csprojAssemblyReference.cache
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.AspDotNetAraci.resources
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.Properties.Resources.resources
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csproj.GenerateResource.cache
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csproj.CoreCompileInputs.cache
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe.manifest
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.application
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe
+C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.pdb
