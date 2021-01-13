@@ -1335,7 +1335,6 @@ namespace %ProjeAdi%.Business.IServices
             catch (Exception)
             {
 
-                throw;
             }
 
 
