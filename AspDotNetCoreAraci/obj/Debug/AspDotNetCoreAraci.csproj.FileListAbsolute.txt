@@ -26,3 +26,17 @@ C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\
 C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.application
 C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe
 C:\Users\turga\Desktop\.NetCore-Api-Generator-main\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.pdb
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe.config
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe.manifest
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.application
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.exe
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\bin\Debug\AspDotNetCoreAraci.pdb
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csprojAssemblyReference.cache
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.AspDotNetAraci.resources
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.Properties.Resources.resources
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csproj.GenerateResource.cache
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe.manifest
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.application
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.exe
+D:\Çalışmalar\CoreApi\.NetCore-Api-Generator\AspDotNetCoreAraci\obj\Debug\AspDotNetCoreAraci.pdb
